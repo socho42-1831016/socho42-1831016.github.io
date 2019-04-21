@@ -1,0 +1,38 @@
+body{
+    background-color: pink;
+}
+
+p{
+    
+}
+
+h2{
+    font-size: 50px; 
+    font-family: "Passion One"; 
+    color: royalblue; 
+    margin-bottom: 10px;
+    text-decoration: underline;
+    text-align: center;
+}
+label{
+    font-size: 20px; 
+    font-family: "Arial"; 
+    color: rebeccapurple; 
+    margin-bottom: 0px;    
+}
+
+input{
+    font-size: 20px; 
+    margin-bottom: 0px; 
+}
+
+legend{
+    font-size: 20px; 
+    font-family: "Arial"; 
+    font-weight: bold;
+    color: black; 
+    margin-bottom: 10px; 
+}
+
+
+
